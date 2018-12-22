@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A0C0-9F88
+
+ Directory of C:\Users\elampa\Desktop\PythonStuff\test clone\python - challenge\Project1_20181222
+
+12/22/2018  10:22 AM    <DIR>          .
+12/22/2018  10:22 AM    <DIR>          ..
+12/22/2018  10:15 AM                19 README.md
+12/22/2018  10:22 AM                 0 test1.txt
+               2 File(s)             19 bytes
+               2 Dir(s)  152,938,196,992 bytes free
